@@ -1,4 +1,4 @@
-test.dnhpg.kitek-pg.ru
+# test.dnhpg.kitek-pg.ru
 
 # Лабораторная: Nginx
 
